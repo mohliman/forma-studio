@@ -1,0 +1,37 @@
+{
+  "method": "Built-in image_gen tool",
+  "date": "2026-10-03",
+  "notes": "Original AI-generated fictional architectural concept visualizations. No existing architect or building was requested. One source view per project; detail views are labelled crops of the same image. No external photographic attribution required. Generated images should not be represented as photographs of completed work.",
+  "images": [
+    {
+      "slug": "courtyard-house",
+      "prompt": "Use case: stylized-concept. Asset type: premium architectural portfolio concept image. Create one photorealistic architectural visualization of an original fictional architectural concept. A monolithic warm ivory limestone courtyard house in a dry Mediterranean landscape, recessed glass openings, a mature olive tree, gravel, deep architectural shadows, one storey horizontal volumes. Landscape 3:2 frame, beautifully composed editorial architectural photography, restrained warm stone and earthy palette, precise materials, realistic detailing, quiet atmosphere. No text, logos, watermarks, people, collages, or recognizable existing buildings. A single coherent view, high quality.",
+      "source": "C:\\Users\\hp\\.codex\\generated_images\\01a0fee8-0a26-7f03-a79a-0880605597be\\exec-8e30cdc1-bf31-4644-98d3-7a80c2100132.png"
+    },
+    {
+      "slug": "tidal-house",
+      "prompt": "Use case: stylized-concept. Asset type: premium architectural portfolio concept image. Create one photorealistic architectural visualization of an original fictional architectural concept. A sculptural pale concrete coastal house elevated above dune grasses, Atlantic ocean beyond, large recessed glass, two interlocking horizontal volumes, weathered oak soffits. Landscape 3:2 frame, beautifully composed editorial architectural photography, restrained warm stone and earthy palette, precise materials, realistic detailing, quiet atmosphere. No text, logos, watermarks, people, collages, or recognizable existing buildings. A single coherent view, high quality.",
+      "source": "C:\\Users\\hp\\.codex\\generated_images\\01a0fee8-0a26-7f03-a79a-0880605597be\\exec-1fac57f3-b88e-43de-8e88-ce1c19ab348d.png"
+    },
+    {
+      "slug": "stone-gallery",
+      "prompt": "Use case: stylized-concept. Asset type: premium architectural portfolio concept image. Create one photorealistic architectural visualization of an original fictional architectural concept. A small contemporary art gallery with monumental sandstone walls and a tall narrow entry, secluded urban courtyard, single sculptural tree, museum architecture. Landscape 3:2 frame, beautifully composed editorial architectural photography, restrained warm stone and earthy palette, precise materials, realistic detailing, quiet atmosphere. No text, logos, watermarks, people, collages, or recognizable existing buildings. A single coherent view, high quality.",
+      "source": "C:\\Users\\hp\\.codex\\generated_images\\01a0fee8-0a26-7f03-a79a-0880605597be\\exec-19e3126c-3df1-425e-a0a1-384794e1e73d.png"
+    },
+    {
+      "slug": "canopy-workplace",
+      "prompt": "Use case: stylized-concept. Asset type: premium architectural portfolio concept image. Create one photorealistic architectural visualization of an original fictional architectural concept. A low pavilion workplace enclosed in dark timber fins, lush tropical foliage, deep shaded colonnade, stone courtyard and diffuse tropical sunlight. Landscape 3:2 frame, beautifully composed editorial architectural photography, restrained warm stone and earthy palette, precise materials, realistic detailing, quiet atmosphere. No text, logos, watermarks, people, collages, or recognizable existing buildings. A single coherent view, high quality.",
+      "source": "C:\\Users\\hp\\.codex\\generated_images\\01a0fee8-0a26-7f03-a79a-0880605597be\\exec-33a251b4-870c-41e6-8851-61bd5fe32d52.png"
+    },
+    {
+      "slug": "quiet-apartment",
+      "prompt": "Use case: stylized-concept. Asset type: premium architectural portfolio concept image. Create one photorealistic architectural visualization of an original fictional architectural concept. An elegant minimalist apartment interior, curved plaster wall, walnut joinery, travertine low table, cream linen sofa, floor to ceiling window with gauzy curtain, warm late sunlight. Landscape 3:2 frame, beautifully composed editorial architectural photography, restrained warm stone and earthy palette, precise materials, realistic detailing, quiet atmosphere. No text, logos, watermarks, people, collages, or recognizable existing buildings. A single coherent view, high quality.",
+      "source": "C:\\Users\\hp\\.codex\\generated_images\\01a0fee8-0a26-7f03-a79a-0880605597be\\exec-bb36dbc8-d3b9-4c15-a055-92c120f59c5c.png"
+    },
+    {
+      "slug": "ritual-tea-room",
+      "prompt": "Use case: stylized-concept. Asset type: premium architectural portfolio concept image. Create one photorealistic architectural visualization of an original fictional architectural concept. An intimate contemporary tea room interior, clay plaster walls, solid oak tables, woven seating, a long pale stone tea counter, recessed shelves, soft filtered light. Landscape 3:2 frame, beautifully composed editorial architectural photography, restrained warm stone and earthy palette, precise materials, realistic detailing, quiet atmosphere. No text, logos, watermarks, people, collages, or recognizable existing buildings. A single coherent view, high quality.",
+      "source": "C:\\Users\\hp\\.codex\\generated_images\\01a0fee8-0a26-7f03-a79a-0880605597be\\exec-82d8b19d-b3d3-4bb3-9f2c-0e9dd345f4c9.png"
+    }
+  ]
+}
