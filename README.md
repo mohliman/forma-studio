@@ -1,5 +1,7 @@
 # FORMA Studio
 
+Live demo: [View site](https://forma-studio-three-chi.vercel.app) | [GitHub repository](https://github.com/mohliman/forma-studio)
+
 An independent, fictional architecture and interior design portfolio. All six projects are architectural concepts, not buildings designed or completed by a real studio.
 
 ## Run locally
@@ -21,7 +23,7 @@ npm run build
 npm run preview
 ```
 
-Production output is in `dist/`. A future static host must rewrite unknown paths to `index.html` so `/projects/courtyard-house` and other client-side routes work on direct visits. No deployment or remote repository is configured.
+Production output is in `dist/`. The static host rewrites unknown paths to `index.html` so `/projects/courtyard-house` and other client-side routes work on direct visits. The GitHub repository is connected to Vercel; `vercel.json` provides the route fallback and pushes to `main` deploy automatically.
 
 ## Structure
 
