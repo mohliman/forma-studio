@@ -1,6 +1,6 @@
 # FORMA Studio
 
-Live demo: [View site](https://forma-studio-three-chi.vercel.app) | [GitHub repository](https://github.com/mohliman/forma-studio)
+Live demo: [View site](https://forma-studio-ui.vercel.app) | [GitHub repository](https://github.com/mohliman/forma-studio)
 
 An independent, fictional architecture and interior design portfolio. All six projects are architectural concepts, not buildings designed or completed by a real studio.
 
